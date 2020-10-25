@@ -1,0 +1,18 @@
+h4{
+    min-width: 100%;
+}
+
+.fas{
+    font-size: 25px;
+    color: black;
+    padding: 10px;
+}
+.card-img-top{
+    border-radius: initial;
+    border-bottom-right-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+
+.myStar{
+    font-size: 20px;
+}

@@ -1,0 +1,90 @@
+select{
+    border-radius: 0.25rem;
+    box-shadow: none;
+}
+.myTable{
+    border: 0.01rem solid #2c302e;
+    border-radius: 0.25rem;
+}
+thead{
+    background-color: #138496;
+    color: white;
+}
+input[type="search"]{
+    border-radius: 0.25rem;
+}
+footer, .background, thead, #titre_fiche_produit, .navbar-expand-lg{
+    background: radial-gradient(ellipse at bottom, hsla(215, 20%, 45%, 1) 0%, hsl(215, 20%, 13%) 100%); background-attachment: fixed; color: hsla(215, 20%, 95%, 1); }
+
+
+
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.fa-trash-alt{
+    color: red;
+    font-size: 25px;
+}
+.fa-edit
+{
+    color: #0069d9;
+    font-size: 25px;
+}
+
+.fa-angle-up, .fa-angle-down{
+    font-size: 30px;
+}
+.fa-angle-up:hover, .fa-angle-down:hover{
+    color: #0069d9;
+}
+#refresh, #filtres, .fa-sort{
+    color: #0069d9;
+    font-size: 20px;
+}
+
+.reactiver{
+    color: white;
+    font-size: 17px;
+}
+.titres:hover{
+    cursor: pointer;
+    color: #0069d9;
+}
+
+
+#titre_fiche_produit{
+    background-color: #007bff;
+    color: white;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+input[value='Ajouter au panier']{
+    font-size: 20px;
+}
+.form-check-label:hover{
+    color: #007bff;
+    cursor: pointer;
+}
+.tab_img:hover, .fa-times-circle:hover, .boutiquecursor:hover{
+    cursor: pointer;
+}
+.fa-times-circle:hover{
+    color: red;
+}
+
+#container-boutique{
+    margin-bottom: 0; !important;
+}
+a:hover{
+    color: #d8dbe2;
+    text-decoration: none; !important;
+}
+a{
+    text-decoration: none;
+}
+.nav-link{
+    color: white;
+}

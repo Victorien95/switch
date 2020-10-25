@@ -1,0 +1,13 @@
+h4{
+    min-width: 100%;
+}
+.date_select{
+    background: #007bff;
+    color: white;
+    border: none;
+}
+
+#nav-boutique{
+    background: #f7f7f7;
+    border-right: 1px solid rgba(0,0,0,.125);
+}

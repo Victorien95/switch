@@ -1,0 +1,10 @@
+img:hover{
+    cursor: pointer;
+}
+
+table{
+    table-layout: fixed;
+}
+table tbody tr td:nth-child(2) {
+    width: 50%!important;
+}
